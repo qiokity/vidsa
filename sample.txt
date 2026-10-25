@@ -1,0 +1,2 @@
+Huffman coding is lossless: repeated letters can use shorter binary codes.
+Hello, visualizer! Spaces, punctuation, tabs	and Unicode: café 世界 🌟
